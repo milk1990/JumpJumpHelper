@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: libs/kotlin-stdlib.jar libs/kotlin-reflect.jar libs/kotlin
+ -test.jar libs/kotlin-stdlib-jdk7.jar libs/kotlin-stdlib-jdk8.jar
+Main-Class: com.milk.jump.MainKt
+
